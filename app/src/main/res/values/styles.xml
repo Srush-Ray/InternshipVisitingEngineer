@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">?attr/text</item>
+    </style>
+
+    <style name="toolbar_title_font">
+        <item name="android:fontFamily">@font/ubuntu_regular</item>
+    </style>
+
+    <style name="toolbar_productDetailActivity_font">
+        <item name="android:fontFamily">@font/ubuntu_bold</item>
+    </style>
+
+    <style name="toolbarTheme_Light" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="toolbarTheme_Dark" parent="ThemeOverlay.AppCompat"/>
+    <style name="MyDarkToolbarStyle" parent="@style/Widget.AppCompat.Spinner.DropDown.ActionBar">
+        <item name="background">?android:selectableItemBackground</item>
+        <item name="android:popupBackground">?attr/cardBackground</item>
+        <item name="android:dropDownSelector">?android:selectableItemBackground</item>
+
+    </style>
+
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#000</item>
+        <!-- Used for the background -->
+        <item name="android:background">#fff</item>
+    </style>
+
+</resources>

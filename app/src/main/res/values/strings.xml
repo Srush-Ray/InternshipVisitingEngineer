@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VisitingEngineer</string>
+    <string name="installed">To Be Installed</string>
+    <string name="serviceProduct">Service Product</string>
+    <string name="customerServed">Customer Served</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="recProduct">Receive Product</string>
+    <string name="custService">Customer Service</string>
+    <string name="replaceProd">Replace Service</string>
+    <string name="reqNewProd">Request New Product</string>
+    <string name="title_App">Homedroid Visiting Engineer</string>
+    <string name="dont_have_an_account">Don\'t have an account, <font color='#205088'>Register</font></string>
+    <string name="splash">Made with \u2764\ufe0f by Homedroid</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="already_have_an_account">Already have an account, <font color='#205088'>Login</font></string>
+    <string name="activity_not_locked_text">Nothing should happen on this page, here for test purpose</string>
+
+    <string name="activity_dialog_title">Forgot your Pincode?</string>
+
+    <string name="activity_dialog_accept">OK</string>
+
+    <string name="activity_dialog_decline">CANCEL</string>
+
+    <string name="activity_dialog_content">Tap \'OK\' to log out, when you log back in you\'ll be able to create a new Pincode.\n\nIf you remember your Pincode, tap \'Cancel\' to go back.</string>
+
+    <string name="activity_appcompat_message">I am a PinCompatActivity!</string>
+
+
+    <string name="general">General Features</string>
+    <string name="power">Power Features</string>
+    <string name="additional">Additional Features</string>
+    <string name="warranty">Warranty</string>
+    <string name="textview">TextView</string>
+</resources>

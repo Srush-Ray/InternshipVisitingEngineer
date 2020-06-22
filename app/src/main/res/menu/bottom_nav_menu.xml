@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"></item>
+
+    <item
+        android:id="@+id/installed"
+        android:icon="@drawable/ic_install_app_black_24dp"
+        android:title="@string/installed"></item>
+    <item
+        android:id="@+id/ServiceProduct"
+        android:icon="@drawable/ic_in_service_product_black_24dp"
+        android:title="@string/serviceProduct"></item>
+    <item
+        android:id="@+id/customerServed"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="@string/customerServed"></item>
+</menu>

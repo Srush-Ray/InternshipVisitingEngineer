@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2A2A</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundcolor">#BDBDBD</color>
+    <color name="titleText">#FFFFFF</color>
+    <color name="Dark_background">#141D26</color>
+    <color name="Dark_cardBg">#243447</color>
+    <color name="Dark_textColor">#FFFFFF</color>
+    <color name="Dark_btnBg">#000000</color>
+    <color name="Dark_editText">#000000</color>
+    <color name="Dark_editTextBg">#FFFFFF</color>
+    <color name="Dark_toolbarBg">#141D26</color>
+    <color name="Dark_addData_bg">#243447</color>
+    <color name="Dark_addBtn_text">#FFFFFF</color>
+    <color name="Dark_picSelect_btn_text">#000000</color>
+    <color name="Light_colorPrimary">#324047</color>
+    <color name="Light_colorPrimaryDark">#324047</color>
+    <color name="Light_background">#F3F8FC</color>
+    <color name="Light_cardBg">#ffffff</color>
+    <color name="Light_textColor">#000000</color>
+    <color name="Light_btnBg">#000000</color>
+    <color name="Light_editText">#000000</color>
+    <color name="Light_editTextBg">#FFFFFF</color>
+    <color name="Light_toolbarBg">#F3F8FC</color>
+    <color name="Light_addData_bg">#00a8a8</color>
+    <color name="Light_addBtn_text">#FFFFFF</color>
+    <color name="Light_picSelect_btn_text">#FFFFFF</color>
+
+
+    <color name="bottomViewColor">#552F71</color>
+
+</resources>
